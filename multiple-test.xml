@@ -21,30 +21,6 @@
       <Price>19995000</Price>
       <ListingUrl>www.example.com</ListingUrl>
       <MlsId>150060589</MlsId>
-:...skipping...
-<?xml version="1.0" encoding="utf-8"?>
-<Listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Listing>
-    <Location>
-      <StreetAddress>6710 Foo St</StreetAddress>
-      <UnitNumber />
-      <City>Foo Bar Santa Fe</City>
-      <State>CA</State>
-      <Zip>92067</Zip>
-      <ParcelId>265-214-03-00</ParcelId>
-      <ZPID />
-      <Lat />
-      <Long />
-      <County>San Diego</County>
-      <StreetIntersection>Foo Intersection</StreetIntersection>
-      <DisplayAddress>yes</DisplayAddress>
-      <Suburb>San Antonio</Suburb>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>19995000</Price>
-      <ListingUrl>www.example.com</ListingUrl>
-      <MlsId>150060589</MlsId>
       <ProviderListingId>123456</ProviderListingId>
       <MlsName>FooMLS</MlsName>
       <DateListed>2015-11-12</DateListed>
