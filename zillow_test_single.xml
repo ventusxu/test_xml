@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Listing>
+    <Location>
+      <StreetAddress>6710 Foo St</StreetAddress>
+      <UnitNumber />
+      <City>Foo Bar Santa Fe</City>
+      <State>CA</State>
+      <Zip>92067</Zip>
+      <ParcelId>265-214-03-00</ParcelId>
+      <ZPID />
+      <Lat />
+      <Long />
+      <County>San Diego</County>
+      <StreetIntersection>Foo Intersection</StreetIntersection>
+      <DisplayAddress>yes</DisplayAddress>
+      <Suburb>San Antonio</Suburb>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>19995000</Price>
+      <ListingUrl>www.example.com</ListingUrl>
+      <MlsId>150060589</MlsId>
+      <ProviderListingId>123456</ProviderListingId>
+      <MlsName>FooMLS</MlsName>
+      <DateListed>2015-11-12</DateListed>
+      <DateSold />
+      <VirtualTourUrl>www.example.com/virtualTour/1111</VirtualTourUrl>
+      <ListingEmail>abraham.lincoln@whitehouse.gov</ListingEmail>
+      <AlwaysEmailAgent />
+      <GSTInclusive>Yes</GSTInclusive>
+      <LineBusiness>Finance</LineBusiness>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>June 2020</Availability>
+      <LeaseTerm />
+      <DepositFees />
+      <UtilitiesIncluded />
+      <PetsAllowed>No</PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>SingleFamily</PropertyType>
+      <Title />
+      <Description>Variance granted 150060590. A spectacular and rare 16.5 acre all usable parcel in Foo Bar Santa Fe. Stunning views of the mountains, 8 separate parcels, on a non-covenant "island" surrounded by covenant properties. Lots of possibilities... large estate, family compound or development opportunity.</Description>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <FullBathrooms>2</FullBathrooms>
+      <HalfBathrooms>0</HalfBathrooms>
+      <LivingArea>1460</LivingArea>
+      <LotSize />
+      <YearBuilt>1936</YearBuilt>
+      <PropertyTypeDescription>This property is suitable for single families</PropertyTypeDescription>
+      <MortgageeSale>October 2, 2019</MortgageeSale>
+      <LivingRooms>1</LivingRooms>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com/57b5d0cb1c3d8cbaa0e249e9c971feb9/12/544955add982cbff5ee9b856f40eee98/150060589.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com//Property/p0/SPN/150060589/1/0/0/92b5bf349852a0fbe92a4ac544cd4973/12/544955add982cbff5ee9b856f40eee98/150060589-1.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com//Property/p0/SPN/150060589/2/0/0/a5edcb83a48e8974d5d5d5dfda25444d/12/544955add982cbff5ee9b856f40eee98/150060589-2.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com//Property/p0/SPN/150060589/3/0/0/85891f0be81c890977cd0f92d9806096/12/544955add982cbff5ee9b856f40eee98/150060589-3.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+    </Pictures>
+    <Agent>
+      <FirstName />
+      <LastName />
+      <EmailAddress>abraham.lincoln@whitehouse.gov</EmailAddress>
+      <PictureUrl />
+      <OfficeLineNumber>(555) 555-5555</OfficeLineNumber>
+      <MobilePhoneLineNumber>(555) 555-5555</MobilePhoneLineNumber>
+      <FaxLineNumber />
+      <LicenseNum>1</LicenseNum>
+      <BranchRefNo>999</BranchRefNo>
+    </Agent>
+    <CoAgent>
+      <FirstName>John</FirstName>
+      <LastName>Johnson</LastName>
+      <EmailAddress>john@example.com</EmailAddress>
+      <MobilePhoneLineNumber>(111) 111-1111</MobilePhoneLineNumber>
+      <LicenseNum>2</LicenseNum>
+    </CoAgent>
+    <SaleAgent>
+      <FirstName>Steve</FirstName>
+      <LastName>Stevenson</LastName>
+      <EmailAddress>steve@example.com</EmailAddress>
+      <MobilePhoneLineNumber>(222) 222-2222</MobilePhoneLineNumber>
+      <LicenseNum>LGSCOTWIL</LicenseNum>
+    </SaleAgent>
+    <CoSaleAgent>
+      <FirstName>Jenny</FirstName>
+      <LastName>Jensen</LastName>
+      <EmailAddress>jenny@example.com</EmailAddress>
+      <MobilePhoneLineNumber>(333) 333-3333</MobilePhoneLineNumber>
+      <LicenseNum>4</LicenseNum>
+    </CoSaleAgent>
+    <Office>
+      <BrokerageName>Foo Bar Real Estate</BrokerageName>
+      <BrokerPhone>(555) 555-5555</BrokerPhone>
+      <BrokerEmail>info@example.com</BrokerEmail>
+      <BrokerWebsite>www.example.com/brokers</BrokerWebsite>
+      <StreetAddress>1131 Wall Street</StreetAddress>
+      <UnitNumber />
+      <City>La Jolla</City>
+      <State>CA</State>
+      <Zip>92037</Zip>
+      <OfficeName>Foo Bar Real Estate</OfficeName>
+      <FranchiseName />
+    </Office>
+    <OpenHouses>
+      <OpenHouse>
+        <Date>October 2, 2019</Date>
+        <StartTime>6:00 PM</StartTime>
+        <EndTime>9:00 PM</EndTime>
+      </OpenHouse>
+    </OpenHouses>
+    <Schools>
+      <District />
+      <Elementary />
+      <Middle />
+      <High />
+    </Schools>
+    <Neighborhood>
+      <Name>Foo Bar Santa Fe</Name>
+      <Description />
+    </Neighborhood>
+    <RichDetails>
+      <AdditionalFeatures>Mini Golf Course</AdditionalFeatures>
+      <Appliances>
+        <Appliance />
+      </Appliances>
+      <ArchitectureStyle>Other</ArchitectureStyle>
+      <Attic>Yes</Attic>
+      <BarbecueArea />
+      <Basement>No</Basement>
+      <BuildingUnitCount />
+      <CableReady />
+      <CeilingFan />
+      <CondoFloorNum />
+      <Construction>Other</Construction>
+      <CoolingSystems>
+        <CoolingSystem>Other</CoolingSystem>
+      </CoolingSystems>
+      <Deck />
+      <DisabledAccess />
+      <Dock>No</Dock>
+      <Doorman />
+      <DoublePaneWindows />
+      <Elevator>No</Elevator>
+      <ExteriorFeatures>
+        <ExteriorFeature>Wood</ExteriorFeature>
+      </ExteriorFeatures>
+      <ExteriorTypes />
+      <Fireplace />
+      <FloorCoverings />
+      <Garden />
+      <GatedEntry />
+      <Greenhouse />
+      <HeatingFuels>
+        <HeatingFuel>Other</HeatingFuel>
+      </HeatingFuels>
+      <HeatingSystems>
+        <HeatingSystem>Other</HeatingSystem>
+      </HeatingSystems>
+      <HottubSpa>Yes</HottubSpa>
+      <InteriorFeatures>
+        <InteriorFeature>White</InteriorFeature>
+      </InteriorFeatures>
+      <Intercom />
+      <JettedBathTub />
+      <Lawn />
+      <LegalDescription />
+      <LotDescription>big</LotDescription>
+      <MotherInLaw />
+      <NumFloors>1</NumFloors>
+      <NumParkingSpaces>2</NumParkingSpaces>
+      <ParkingTypes>
+        <ParkingType />
+      </ParkingTypes>
+      <Patio />
+      <Pond />
+      <Pool>No</Pool>
+      <Porch>No</Porch>
+      <RoofTypes>
+        <RoofType>Other</RoofType>
+      </RoofTypes>
+      <RoomCount />
+      <Rooms>
+        <Room />
+      </Rooms>
+      <RvParking>No</RvParking>
+      <Sauna />
+      <SecuritySystem>No</SecuritySystem>
+      <Skylight />
+      <SportsCourt />
+      <SprinklerSystem />
+      <VaultedCeiling />
+      <FitnessCenter />
+      <BasketballCourt />
+      <TennisCourt>No</TennisCourt>
+      <NearTransportation />
+      <ControlledAccess />
+      <Over55ActiveCommunity />
+      <AssistedLivingCommunity />
+      <Storage />
+      <Stories>3</Stories>
+      <FencedYard>No</FencedYard>
+      <PropertyName />
+      <Furnished>No</Furnished>
+      <HighspeedInternet />
+      <OnsiteLaundry>N/K</OnsiteLaundry>
+      <CableSatTV />
+      <ViewTypes>
+        <ViewType>None</ViewType>
+      </ViewTypes>
+      <Waterfront />
+      <Wetbar />
+      <WhatOwnerLoves />
+      <Wired />
+      <YearUpdated />
+      <Taxes>
+        <Tax />
+        <Year />
+        <Amount />
+      </Taxes>
+    </RichDetails>
+    <SalesInfo>
+      <SoldDate>December 14, 2019</SoldDate>
+      <SoldPrice>20005500</SoldPrice>
+      <MethodSale>Auction</MethodSale>
+      <AucTenDateTime>November 24, 2019</AucTenDateTime>
+      <AucTenLocation>6710 Foo St, Foo Bar Santa Fe, CA, 92067</AucTenLocation>
+    </SalesInfo>
+    <Misc>
+        <Item>Foo</Item>
+        <Item>Bar</Item>
+        <Item>Baz</Item>
+    </Misc>
+  </Listing>
+</Listings>
+
