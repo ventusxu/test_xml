@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Listing>
+    <Location>
+      <StreetAddress>6710 Foo St</StreetAddress>
+      <UnitNumber />
+      <City>Foo Bar Santa Fe</City>
+      <State>CA</State>
+      <Zip>92067</Zip>
+      <ParcelId>265-214-03-00</ParcelId>
+      <ZPID />
+      <Lat />
+      <Long />
+      <County>San Diego</County>
+      <StreetIntersection>Foo Intersection</StreetIntersection>
+      <DisplayAddress>yes</DisplayAddress>
+      <Suburb>San Antonio</Suburb>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>19995000</Price>
+      <ListingUrl>www.example.com</ListingUrl>
+      <MlsId>150060589</MlsId>
+      <ProviderListingId>123456</ProviderListingId>
+      <MlsName>FooMLS</MlsName>
+      <DateListed>2015-11-12</DateListed>
+      <DateSold />
+      <VirtualTourUrl>www.example.com/virtualTour/1111</VirtualTourUrl>
+      <ListingEmail>abraham.lincoln@whitehouse.gov</ListingEmail>
+      <AlwaysEmailAgent />
+      <GSTInclusive>Yes</GSTInclusive>
+      <LineBusiness>Finance</LineBusiness>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>June 2020</Availability>
+      <LeaseTerm />
+      <DepositFees />
+      <UtilitiesIncluded />
+      <PetsAllowed>No</PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>SingleFamily</PropertyType>
+      <Title />
+      <Description>Variance granted 150060590. A spectacular and rare 16.5 acre all usable parcel in Foo Bar Santa Fe. Stunning views of the mountains, 8 separate parcels, on a non-covenant "island" surrounded by covenant properties. Lots of possibilities... large estate, family compound or development opportunity.</Description>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <FullBathrooms>2</FullBathrooms>
+      <HalfBathrooms>0</HalfBathrooms>
+      <LivingArea>1460</LivingArea>
+      <LotSize />
+      <YearBuilt>1936</YearBuilt>
+      <PropertyTypeDescription>This property is suitable for single families</PropertyTypeDescription>
+      <MortgageeSale>October 2, 2019</MortgageeSale>
+      <LivingRooms>1</LivingRooms>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com/57b5d0cb1c3d8cbaa0e249e9c971feb9/12/544955add982cbff5ee9b856f40eee98/150060589.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com//Property/p0/SPN/150060589/1/0/0/92b5bf349852a0fbe92a4ac544cd4973/12/544955add982cbff5ee9b856f40eee98/150060589-1.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com//Property/p0/SPN/150060589/2/0/0/a5edcb83a48e8974d5d5d5dfda25444d/12/544955add982cbff5ee9b856f40eee98/150060589-2.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com//Property/p0/SPN/150060589/3/0/0/85891f0be81c890977cd0f92d9806096/12/544955add982cbff5ee9b856f40eee98/150060589-3.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+    </Pictures>
+    <Agent>
+      <FirstName />
+      <LastName />
+      <EmailAddress>abraham.lincoln@whitehouse.gov</EmailAddress>
+      <PictureUrl />
+      <OfficeLineNumber>(555) 555-5555</OfficeLineNumber>
+      <MobilePhoneLineNumber>(555) 555-5555</MobilePhoneLineNumber>
+      <FaxLineNumber />
+      <LicenseNum>1</LicenseNum>
+      <BranchRefNo>999</BranchRefNo>
+    </Agent>
+    <CoAgent>
+      <FirstName>John</FirstName>
+      <LastName>Johnson</LastName>
+      <EmailAddress>john@example.com</EmailAddress>
+      <MobilePhoneLineNumber>(111) 111-1111</MobilePhoneLineNumber>
+      <LicenseNum>2</LicenseNum>
+    </CoAgent>
+    <SaleAgent>
+      <FirstName>Steve</FirstName>
+      <LastName>Stevenson</LastName>
+      <EmailAddress>steve@example.com</EmailAddress>
+      <MobilePhoneLineNumber>(222) 222-2222</MobilePhoneLineNumber>
+      <LicenseNum>LGSCOTWIL</LicenseNum>
+    </SaleAgent>
+    <CoSaleAgent>
+      <FirstName>Jenny</FirstName>
+      <LastName>Jensen</LastName>
+      <EmailAddress>jenny@example.com</EmailAddress>
+      <MobilePhoneLineNumber>(333) 333-3333</MobilePhoneLineNumber>
+      <LicenseNum>4</LicenseNum>
+    </CoSaleAgent>
+    <Office>
+      <BrokerageName>Foo Bar Real Estate</BrokerageName>
+      <BrokerPhone>(555) 555-5555</BrokerPhone>
+      <BrokerEmail>info@example.com</BrokerEmail>
+      <BrokerWebsite>www.example.com/brokers</BrokerWebsite>
+      <StreetAddress>1131 Wall Street</StreetAddress>
+      <UnitNumber />
+      <City>La Jolla</City>
+      <State>CA</State>
+      <Zip>92037</Zip>
+      <OfficeName>Foo Bar Real Estate</OfficeName>
+      <FranchiseName />
+    </Office>
+    <OpenHouses>
+      <OpenHouse>
+        <Date>October 2, 2019</Date>
+        <StartTime>6:00 PM</StartTime>
+        <EndTime>9:00 PM</EndTime>
+      </OpenHouse>
+    </OpenHouses>
+    <Schools>
+      <District />
+      <Elementary />
+      <Middle />
+      <High />
+    </Schools>
+    <Neighborhood>
+      <Name>Foo Bar Santa Fe</Name>
+      <Description />
+    </Neighborhood>
+    <RichDetails>
+      <AdditionalFeatures>Mini Golf Course</AdditionalFeatures>
+      <Appliances>
+        <Appliance />
+      </Appliances>
+      <ArchitectureStyle>Other</ArchitectureStyle>
+      <Attic>Yes</Attic>
+      <BarbecueArea />
+      <Basement>No</Basement>
+      <BuildingUnitCount />
+      <CableReady />
+      <CeilingFan />
+      <CondoFloorNum />
+      <CoolingSystems>
+        <CoolingSystem>Other</CoolingSystem>
+      </CoolingSystems>
+      <Deck />
+      <DisabledAccess />
+      <Dock>No</Dock>
+      <Doorman />
+      <DoublePaneWindows />
+      <Elevator>No</Elevator>
+      <ExteriorTypes />
+      <Fireplace />
+      <FloorCoverings />
+      <Garden />
+      <GatedEntry />
+      <Greenhouse />
+      <HeatingFuels>
+        <HeatingFuel>Other</HeatingFuel>
+      </HeatingFuels>
+      <HeatingSystems>
+        <HeatingSystem>Other</HeatingSystem>
+      </HeatingSystems>
+      <HottubSpa>Yes</HottubSpa>
+      <Intercom />
+      <JettedBathTub />
+      <Lawn />
+      <LegalDescription />
+      <MotherInLaw />
+      <NumFloors>1</NumFloors>
+      <NumParkingSpaces>2</NumParkingSpaces>
+      <ParkingTypes>
+        <ParkingType />
+      </ParkingTypes>
+      <Patio />
+      <Pond />
+      <Pool>No</Pool>
+      <Porch>No</Porch>
+      <RoofTypes>
+        <RoofType>Other</RoofType>
+      </RoofTypes>
+      <RoomCount />
+      <Rooms>
+        <Room />
+      </Rooms>
+      <RvParking>No</RvParking>
+      <Sauna />
+      <SecuritySystem>No</SecuritySystem>
+      <Skylight />
+      <SportsCourt />
+      <SprinklerSystem />
+      <VaultedCeiling />
+      <FitnessCenter />
+      <BasketballCourt />
+      <TennisCourt>No</TennisCourt>
+      <NearTransportation />
+      <ControlledAccess />
+      <Over55ActiveCommunity />
+      <AssistedLivingCommunity />
+      <Storage />
+      <FencedYard>No</FencedYard>
+      <PropertyName />
+      <Furnished>No</Furnished>
+      <HighspeedInternet />
+      <OnsiteLaundry>N/K</OnsiteLaundry>
+      <CableSatTV />
+      <ViewTypes>
+        <ViewType>None</ViewType>
+      </ViewTypes>
+      <Waterfront />
+      <Wetbar />
+      <WhatOwnerLoves />
+      <Wired />
+      <YearUpdated />
+      <Taxes>
+        <Tax />
+        <Year />
+        <Amount />
+      </Taxes>
+    </RichDetails>
+    <SalesInfo>
+      <SoldDate>December 14, 2019</SoldDate>
+      <MethodSale>Auction</MethodSale>
+      <AucTenDateTime>November 24, 2019</AucTenDateTime>
+      <AucTenLocation>6710 Foo St, Foo Bar Santa Fe, CA, 92067</AucTenLocation>
+    </SalesInfo>
+    <Misc>
+        <Item>Foo</Item>
+        <Item>Bar</Item>
+        <Item>Baz</Item>
+    </Misc>
+  </Listing>
+  <Listing>
+    <Location>
+      <StreetAddress>6710 Foo St</StreetAddress>
+      <UnitNumber />
+      <City>Foo Bar Santa Fe</City>
+      <State>CA</State>
+      <Zip>92067</Zip>
+      <ParcelId>265-214-03-00</ParcelId>
+      <ZPID />
+      <Lat />
+      <Long />
+      <County>San Diego</County>
+      <StreetIntersection>Foo Intersection</StreetIntersection>
+      <DisplayAddress>yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>19995000</Price>
+      <ListingUrl>www.example.com</ListingUrl>
+      <MlsId>100000000</MlsId>
+      <ProviderListingId>123456</ProviderListingId>
+      <MlsName>FooMLS</MlsName>
+      <DateListed>2015-11-12</DateListed>
+      <DateSold />
+      <VirtualTourUrl>www.example.com/virtualTour/1111</VirtualTourUrl>
+      <ListingEmail>abraham.lincoln@whitehouse.gov</ListingEmail>
+      <AlwaysEmailAgent />
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>June 2020</Availability>
+      <LeaseTerm />
+      <DepositFees />
+      <UtilitiesIncluded />
+      <PetsAllowed>No</PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>SingleFamily</PropertyType>
+      <Title />
+      <Description><![CDATA[Variance granted 150060590. A spectacular and rare 16.5 acre all usable parcel in Foo Bar Santa Fe. Stunning views of the mountains, 8 separate parcels, on a non-covenant "island" surrounded by covenant properties. Lots of possibilities... large estate, family compound or development opportunity.]]></Description>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>10</Bathrooms>
+      <FullBathrooms>5</FullBathrooms>
+      <ThreeQuarterBathrooms>4</ThreeQuarterBathrooms>
+      <HalfBathrooms>3</HalfBathrooms>
+      <QuarterBathrooms>2</QuarterBathrooms>
+      <LivingArea>1460</LivingArea>
+      <LotSize />
+      <YearBuilt>1936</YearBuilt>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com/57b5d0cb1c3d8cbaa0e249e9c971feb9/12/544955add982cbff5ee9b856f40eee98/150060589.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com//Property/p0/SPN/150060589/1/0/0/92b5bf349852a0fbe92a4ac544cd4973/12/544955add982cbff5ee9b856f40eee98/150060589-1.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com//Property/p0/SPN/150060589/2/0/0/a5edcb83a48e8974d5d5d5dfda25444d/12/544955add982cbff5ee9b856f40eee98/150060589-2.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        http://foo.cdn.com//Property/p0/SPN/150060589/3/0/0/85891f0be81c890977cd0f92d9806096/12/544955add982cbff5ee9b856f40eee98/150060589-3.JPG</PictureUrl>
+        <Caption />
+      </Picture>
+    </Pictures>
+    <Agent>
+      <FirstName />
+      <LastName />
+      <EmailAddress>abraham.lincoln@whitehouse.gov</EmailAddress>
+      <PictureUrl />
+      <OfficeLineNumber>(555) 555-5555</OfficeLineNumber>
+      <MobilePhoneLineNumber>(555) 555-5555</MobilePhoneLineNumber>
+      <FaxLineNumber />
+      <LicenseNum>1</LicenseNum>
+    </Agent>
+    <Office>
+      <BrokerageName>Foo Bar Real Estate</BrokerageName>
+      <BrokerPhone>(555) 555-5555</BrokerPhone>
+      <BrokerEmail>info@example.com</BrokerEmail>
+      <BrokerWebsite>www.example.com/brokers</BrokerWebsite>
+      <StreetAddress>1131 Wall Street</StreetAddress>
+      <UnitNumber />
+      <City>La Jolla</City>
+      <State>CA</State>
+      <Zip>92037</Zip>
+      <OfficeName>Foo Bar Real Estate</OfficeName>
+      <FranchiseName />
+    </Office>
+    <OpenHouses>
+      <OpenHouse>
+        <Date>October 2, 2019</Date>
+        <StartTime>6:00 PM</StartTime>
+        <EndTime>9:00 PM</EndTime>
+      </OpenHouse>
+      <OpenHouse>
+        <Date>October 3, 2019</Date>
+        <StartTime>10:00 AM</StartTime>
+        <EndTime>1:00 PM</EndTime>
+      </OpenHouse>
+    </OpenHouses>
+    <Schools>
+      <District />
+      <Elementary />
+      <Middle />
+      <High />
+    </Schools>
+    <Neighborhood>
+      <Name>Foo Bar Santa Fe</Name>
+      <Description />
+    </Neighborhood>
+    <RichDetails>
+      <AdditionalFeatures>Mini Golf Course</AdditionalFeatures>
+      <Appliances>
+        <Appliance />
+      </Appliances>
+      <ArchitectureStyle>Other</ArchitectureStyle>
+      <Attic>Yes</Attic>
+      <BarbecueArea />
+      <Basement>No</Basement>
+      <BuildingUnitCount />
+      <CableReady />
+      <CeilingFan />
+      <CondoFloorNum />
+      <CoolingSystems>
+        <CoolingSystem>Other</CoolingSystem>
+      </CoolingSystems>
+      <Deck />
+      <DisabledAccess />
+      <Dock>No</Dock>
+      <Doorman />
+      <DoublePaneWindows />
+      <Elevator>No</Elevator>
+      <ExteriorTypes />
+      <Fireplace />
+      <FloorCoverings />
+      <Garden />
+      <GatedEntry />
+      <Greenhouse />
+      <HeatingFuels>
+        <HeatingFuel>Other</HeatingFuel>
+      </HeatingFuels>
+      <HeatingSystems>
+        <HeatingSystem>Other</HeatingSystem>
+      </HeatingSystems>
+      <HottubSpa>Yes</HottubSpa>
+      <Intercom />
+      <JettedBathTub />
+      <Lawn />
+      <LegalDescription />
+      <MotherInLaw />
+      <NumFloors>1</NumFloors>
+      <NumParkingSpaces>2</NumParkingSpaces>
+      <ParkingTypes>
+        <ParkingType />
+      </ParkingTypes>
+      <Patio />
+      <Pond />
+      <Pool>No</Pool>
+      <Porch>No</Porch>
+      <RoofTypes>
+        <RoofType>Other</RoofType>
+        <RoofType>Asphalt Single</RoofType>
+        <RoofType>Hay</RoofType>
+      </RoofTypes>
+      <RoomCount />
+      <Rooms>
+        <Room />
+      </Rooms>
+      <RvParking>No</RvParking>
+      <Sauna />
+      <SecuritySystem>No</SecuritySystem>
+      <Skylight />
+      <SportsCourt />
+      <SprinklerSystem />
+      <VaultedCeiling />
+      <FitnessCenter />
+      <BasketballCourt />
+      <TennisCourt>No</TennisCourt>
+      <NearTransportation />
+      <ControlledAccess />
+      <Over55ActiveCommunity />
+      <AssistedLivingCommunity />
+      <Storage />
+      <FencedYard>No</FencedYard>
+      <PropertyName />
+      <Furnished>No</Furnished>
+      <HighspeedInternet />
+      <OnsiteLaundry>N/K</OnsiteLaundry>
+      <CableSatTV />
+      <ViewTypes>
+        <ViewType>None</ViewType>
+      </ViewTypes>
+      <Waterfront />
+      <Wetbar />
+      <WhatOwnerLoves />
+      <Wired />
+      <YearUpdated />
+      <Taxes>
+        <Tax />
+        <Year />
+        <Amount />
+      </Taxes>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <Location>
+      <StreetAddress>16 S Street</StreetAddress>
+      <UnitNumber></UnitNumber>
+      <City>Foo Bar Ranch</City>
+      <State>XZ</State>
+      <Zip>12345</Zip>
+      <Lat>0</Lat>
+      <Long>0</Long>
+    </Location>
+    <ListingDetails>
+      <Status>For Rent</Status>
+      <Price>3200</Price>
+      <ListingUrl>https://example.com/property/listing_url</ListingUrl>
+      <MlsId>AAAAAAAAAA</MlsId>
+      <InternalMlsId>25</InternalMlsId>
+      <MlsBoard>EEEEE</MlsBoard>
+      <VirtualTourUrl></VirtualTourUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <PetsAllowed><NoPets>Yes</NoPets></PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>SingleFamily</PropertyType>
+      <Description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</Description>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>3</Bathrooms>
+      <FullBathrooms>2</FullBathrooms>
+      <HalfBathrooms>2</HalfBathrooms>
+      <LivingArea>1736</LivingArea>
+      <LotSize>0.0541</LotSize>
+      <YearBuilt>2003</YearBuilt>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-1.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-2.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-3.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-4.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-5.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-6.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-7.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-8.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-9.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-10.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-11.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-12.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-13.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+      <Picture>
+        <PictureUrl>
+        https://some.cdn.com/listingphotos25/LG19227237-14.jpg</PictureUrl>
+        <Caption></Caption>
+      </Picture>
+    </Pictures>
+    <Agent>
+      <FirstName>Abraham</FirstName>
+      <LastName>Lincoln</LastName>
+      <EmailAddress>agentemail@example.com</EmailAddress>
+      <LicenseNum>USGOV</LicenseNum>
+      <OfficeLineNumber></OfficeLineNumber>
+      <PictureUrl>
+      https://agentphoto.example.com/agentphoto.jpg</PictureUrl>
+    </Agent>
+    <Office>
+      <BrokerPhone>(444) 555-5555</BrokerPhone>
+      <BrokerEmail />
+      <BrokerageName>Foo Bar Estates</BrokerageName>
+      <StreetAddress>99999 Green Lantern, Suite 999</StreetAddress>
+      <City>Atlantis</City>
+      <State>CA</State>
+      <Zip>99999</Zip>
+      <OfficeName>Office Name</OfficeName>
+    </Office>
+    <OpenHouses />
+  </Listing>
+</Listings>
