@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE foo [
+    <!ENTITY lab "cool, text as an image">
+    <!ENTITY lab2 "&lab;&lab;">
+]>
+<svg xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="20" font-size="20">&lab2;</text>
+    <script type="text/javascript">alert("XSS Demo:\n" + localStorage);</script>
+</svg>
